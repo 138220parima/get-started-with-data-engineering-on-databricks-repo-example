@@ -3,6 +3,10 @@ print("this is my first notebook")
 
 # COMMAND ----------
 
+print("testing commit and checkout")
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC ## sample sql query
 # MAGIC
